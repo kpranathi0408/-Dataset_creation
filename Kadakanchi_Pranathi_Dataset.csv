@@ -1,0 +1,41 @@
+Patient_ID,Age,Gender,Diagnosis,Admission_Type,No_of_Tests,No_of_Procedures,Comorbidities,Length_of_Stay
+1,40,Female,Fracture,Planned,6,4,1,7
+2,57,Female,Pneumonia,Emergency,5,1,0,14
+3,75,Male,Appendicitis,Emergency,3,2,2,8
+4,48,Female,Infection,Planned,4,4,1,9
+5,67,Female,Appendicitis,Planned,5,2,3,8
+6,60,Male,Heart Disease,Planned,12,3,1,3
+7,41,Female,Pneumonia,Emergency,8,4,2,6
+8,68,Female,Pneumonia,Planned,7,3,2,5
+9,21,Male,Fracture,Planned,8,0,0,5
+10,50,Female,Fracture,Planned,4,4,0,15
+11,74,Female,Pneumonia,Emergency,12,1,0,4
+12,30,Female,Diabetes,Planned,6,0,2,12
+13,53,Female,Pneumonia,Planned,9,1,0,3
+14,52,Female,Infection,Emergency,7,4,0,4
+15,31,Male,Fracture,Emergency,7,4,0,5
+16,39,Male,Fracture,Planned,9,2,1,4
+17,79,Female,Pneumonia,Planned,12,1,2,8
+18,33,Female,Diabetes,Planned,7,3,0,3
+19,57,Female,Diabetes,Emergency,4,3,1,9
+20,49,Male,Appendicitis,Emergency,8,0,0,14
+21,50,Female,Infection,Planned,9,3,3,12
+22,75,Female,Fracture,Emergency,10,4,0,3
+23,34,Male,Diabetes,Emergency,9,2,2,9
+24,68,Female,Heart Disease,Planned,10,4,0,12
+25,22,Female,Pneumonia,Emergency,12,3,1,9
+26,34,Female,Diabetes,Emergency,5,4,1,10
+27,54,Female,Diabetes,Planned,7,1,1,7
+28,52,Male,Pneumonia,Planned,6,1,1,13
+29,23,Female,Pneumonia,Planned,11,4,2,10
+30,72,Male,Appendicitis,Planned,11,1,3,10
+31,80,Male,Diabetes,Emergency,12,2,0,9
+32,68,Male,Diabetes,Emergency,4,2,0,10
+33,20,Female,Diabetes,Planned,10,1,1,8
+34,31,Male,Pneumonia,Planned,5,2,1,3
+35,72,Female,Infection,Planned,12,4,0,11
+36,69,Male,Diabetes,Planned,4,2,1,6
+37,23,Male,Heart Disease,Planned,8,2,2,14
+38,46,Female,Heart Disease,Planned,6,3,2,9
+39,40,Female,Diabetes,Emergency,8,1,0,4
+40,25,Male,Fracture,Emergency,11,2,0,7
